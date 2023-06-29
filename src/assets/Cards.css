@@ -1,0 +1,39 @@
+.container {
+  width: 17rem;
+  padding: 1rem;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 30px;
+  position: relative;
+}
+.user-id-container {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  color: #fff;
+}
+.user_id {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+}
+.img_container {
+  display: flex;
+  justify-content: center;
+}
+.avatar_img {
+  width: 100%;
+  border-radius: 30px;
+  height: 236px;
+}
+.User_name_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 33px;
+}

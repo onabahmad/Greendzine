@@ -1,0 +1,42 @@
+.Main_container {
+  display: grid;
+  margin: 1rem;
+  border-radius: 2rem 2rem 2rem 2rem;
+  background-color: #dac4fb;
+}
+.first_box {
+  background-color: #b07ff6;
+  border-radius: 2rem 2rem 0 0;
+}
+.heading {
+  padding: 2rem;
+  color: white;
+}
+
+.Box {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  height: 8rem;
+  border-bottom: 5px solid #ffffff;
+}
+.grid-view {
+  display: grid;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin: 1rem;
+}
+.list_view_button,
+.Grid_view_button {
+  background-color: #dac4fb;
+}

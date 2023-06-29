@@ -1,0 +1,9 @@
+.searchbar {
+  width: 281px;
+  height: 38px;
+  border-radius: 10px;
+  padding-left: 20px;
+  background-image: url(../assets/utils/serch.png);
+  background-position: right 10px center;
+  background-repeat: no-repeat;
+}
